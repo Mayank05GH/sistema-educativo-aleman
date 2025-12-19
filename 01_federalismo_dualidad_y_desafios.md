@@ -1,6 +1,15 @@
 > 🎥 Este apunte es la base del video:
-> **“Sistema educativo alemán: federalismo, dualidad y desafíos”**  
-> Disponible en el canal de YouTube del autor.
+> **“Sistema educativo alemán: federalismo, dualidad y desafíos”**
+>
+> Este documento presenta una visión general del sistema educativo alemán,
+> destacando su organización federal, la orientación temprana de los estudiantes,
+> el rol del sistema dual de formación profesional y los principales desafíos
+> asociados a la equidad, la integración y el rendimiento educativo.
+
+---
+
+# Sistema educativo alemán: federalismo, dualidad y desafíos
+
 
 ### 1. Estructura y Gestión (Federalismo)
 
