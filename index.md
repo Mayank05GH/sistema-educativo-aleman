@@ -38,7 +38,7 @@ El contenido está organizado como recurso educativo abierto para estudiantes, d
 
 ## 🎥 Lista de reproducción en YouTube
 
-- 📺 Serie completa: [Ver lista de reproducción en YouTube](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9BbuluW1guhJDhtKdc8v_J)
+- 📺 Serie completa: [Ver lista de reproducción en YouTube](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9BbuluW1guhJDhtKdC8v_J)
 
 
 ---
