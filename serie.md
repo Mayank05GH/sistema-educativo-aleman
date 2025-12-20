@@ -32,10 +32,10 @@ description: >
 10. [10_universidades_privadas_en_el_sistema_aleman.md](./10_universidades_privadas_en_el_sistema_aleman.md)
 
 ## 🟥 Bloque 5 – Títulos y acceso
-11. [14_estructura_duracion_y_tipos_de_titulos.md](./14_estructura_duracion_y_tipos_de_titulos.md)  
-12. [11_ingreso_a_la_universidad_y_el_abitur.md](./11_ingreso_a_la_universidad_y_el_abitur.md)  
-13. [12_sistema_de_ingreso_a_la_educacion_superior.md](./12_sistema_de_ingreso_a_la_educacion_superior.md)
+11. [11_estructura_duracion_y_tipos_de_titulos.md](./11_estructura_duracion_y_tipos_de_titulos.md)  
+12. [12_ingreso_a_la_universidad_y_el_abitur.md](./12_ingreso_a_la_universidad_y_el_abitur.md)  
+13. [13_sistema_de_ingreso_a_la_educacion_superior.md](./13_sistema_de_ingreso_a_la_educacion_superior.md)
 
 ## 🟫 Bloque 6 – Cierre integrador
-14. [13_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md](./13_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md)
+14. [14_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md](./14_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md)
 
